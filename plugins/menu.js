@@ -21,7 +21,7 @@ const defaultMenu = {
 ├ Uptime: *%uptime (%muptime)*
 ├ Database: %rtotalreg dari %totalreg
 ├ Github:
-├ %github
+├ Gua dari %me mengucapkan salam disconect
 └────
 %readmore`.trimStart(),
   header: '┌─〔 %category 〕',
